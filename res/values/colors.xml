@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="list_item_selected">#E8E7A7</color>
+    <color name="list_item_normal">#CCC9AC</color>
+    <color name="list_background">#CCC9AC</color>
+    <color name="list_item_pressed">#545447</color>
+    <color name="list_item_focussed">#ADA182</color>
+    <color name="background">#261819</color>
+    
+    <color name="selection_gradient_start">#F2B48A</color>
+    <color name="selection_gradient_center">#F2C78A</color>
+    <color name="selection_gradient_end">#F2C78A</color>
+    <color name="normal_gradient_start">#E5F2F2</color>
+    <color name="normal_gradient_center">#E5F2F2</color>
+    <color name="normal_gradient_end">#F2F2F2</color>
+    <color name="pressed_gradient_start">#78A8E8</color>
+    <color name="pressed_gradient_center">#78A8E8</color>
+    <color name="pressed_gradient_end">#86ACB5</color>
+    <color name="focused_gradient_start">#78AEE8</color>
+    <color name="focused_gradient_center">#78E8E8</color>
+    <color name="focused_gradient_end">#86A1B5</color>
+    <color name="tab_normal_gradient_start">#007399</color>
+    <color name="tab_normal_gradient_center">#007399</color>
+    <color name="tab_normal_gradient_end">#048AA9</color>
+    <color name="tab_pressed_gradient_start">#F5B3AD</color>
+    <color name="tab_pressed_gradient_center">#F5B3AD</color>
+    <color name="tab_pressed_gradient_end">#F5C0B8</color>
+    <color name="tab_selected_gradient_start">#F5B3AD</color>
+    <color name="tab_selected_gradient_center">#F5B3AD</color>
+    <color name="tab_selected_gradient_end">#F5C0B8</color>
+    <color name="tab_focused_gradient_start">#78AEE8</color>
+    <color name="tab_focused_gradient_center">#78E8E8</color>
+    <color name="tab_focused_gradient_end">#86A1B5</color>
+    <color name="button_normal_gradient_start">#AEB4BF</color>
+    <color name="button_normal_gradient_center">#F2F2F2</color>
+    <color name="button_normal_gradient_end">#F2F2F2</color>
+    <color name="button_pressed_gradient_start">#AEB4BF</color>
+    <color name="button_pressed_gradient_center">#78A8E8</color>
+    <color name="button_pressed_gradient_end">#86ACB5</color>
+    <color name="button_focused_gradient_start">#78AEE8</color>
+    <color name="button_focused_gradient_center">#78E8E8</color>
+    <color name="button_focused_gradient_end">#86A1B5</color>
+    <color name="transparent">@android:color/transparent</color>
+</resources>
